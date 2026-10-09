@@ -1,0 +1,5 @@
+base_column,variant_column,base_populated_rows,variant_populated_rows,overlapping_rows,conflicting_rows,action
+dob_day,dob_day_1,15408,16570,15408,12,kept_separate
+dob_month,dob_month_1,15408,16570,15408,0,kept_separate
+dob_year,dob_year_1,15408,16570,15408,0,kept_separate
+dob,dob1,15408,16554,15396,0,kept_separate
